@@ -85,6 +85,21 @@ body {
     transition: background-color 0.3s ease;
 }
 
+    /* Estilo para el botón */
+.submit-button {
+    width: 100%;
+    padding: 15px;
+    background-color: red; /* Color de fondo rojo como el de Netflix */
+    color: white; /* Texto blanco */
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
 /* Efecto hover en el botón */
 .submit-button:hover {
     background-color: darkred;
